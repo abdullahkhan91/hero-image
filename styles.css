@@ -32,3 +32,23 @@
   padding-left: 20px;
   padding-right: 20px;
 }
+
+/* unvisited link */
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: grey;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: grey;
+}
